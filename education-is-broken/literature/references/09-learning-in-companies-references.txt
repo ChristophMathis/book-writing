@@ -1,0 +1,41 @@
+In-text citations use Chicago Author-Date format. Full bibliographic entries are also available in `09.learning-in-companies.bib`. The principal sources informing the chapter include:
+
+Bersin, Josh. 2018. "A New Paradigm for Corporate Training: Learning in the Flow of Work." *Josh Bersin Blog*. https://joshbersin.com/2018/06/a-new-paradigm-for-corporate-training-learning-in-the-flow-of-work/.
+
+Boeing. 2024. "Augmented Reality in Aircraft Assembly." Boeing Corporate. https://www.boeing.com/innovation/augmented-reality.
+
+Eightfold.ai. 2024. "AI-Powered Talent Intelligence Platform." Eightfold.ai. https://eightfold.ai/.
+
+European Parliament and Council. 2024. *Regulation (EU) 2024/1689 Laying Down Harmonised Rules on Artificial Intelligence (AI Act)*. Brussels: Official Journal of the European Union. https://eur-lex.europa.eu/eli/reg/2024/1689/oj.
+
+Fidelity Investments. 2024. "Fidelity Immerse: VR Training for Financial Services." Fidelity Institutional. https://institutional.fidelity.com/app/item/RD\_13569\_46516/fidelity-immerse.html.
+
+Fuller, Joseph B., Christina Langer, and Matt Sigelman. 2024. *Skills-Based Hiring: The Long Road from Announcements to Practice*. Boston, MA: Burning Glass Institute and Harvard Business School Managing the Future of Work Project. https://www.burningglassinstitute.org/research/skills-based-hiring-2024.
+
+Gloat. 2024. "Internal Talent Marketplace: Workforce Agility Platform." Gloat. https://www.gloat.com/.
+
+Guild Education. 2024. "Employer-Sponsored Education: Outcomes and Impact." Guild Education. https://www.guildeducation.com/.
+
+Hilton Hotels. 2024. "AI-Driven Employee Engagement and Retention." Hilton Corporate Communications. https://www.hilton.com/corporate/.
+
+IBM. 2024. "Predictive Analytics in Workforce Planning." IBM Corporate Communications. https://www.ibm.com/thought-leadership/workforce-analytics/.
+
+IDC. 2024. *Skills Forward: Building Workforce Readiness for the AI Era*. Framingham, MA: International Data Corporation. https://www.idc.com/research/skills-forward.
+
+LinkedIn. 2024. *2024 Workplace Learning Report*. Sunnyvale, CA: LinkedIn Learning. https://learning.linkedin.com/resources/workplace-learning-report.
+
+Microsoft. 2024. "Employee Engagement and Predictive Retention Analytics." Microsoft Corporate Case Study.
+
+Salesforce. 2024. "AI-Driven Retention and Talent Development." Salesforce Case Studies. https://www.salesforce.com/resources/case-studies/.
+
+SAP. 2024. "Predictive Attrition Modeling." SAP SuccessFactors. https://www.sap.com/products/hcm/workforce-analytics.html.
+
+Shapiro, Josh. 2023. "Governor Shapiro Signs Executive Order to Eliminate College Degree Requirement for Thousands of State Jobs." Office of the Governor, Commonwealth of Pennsylvania. https://www.governor.pa.gov/newsroom/governor-shapiro-signs-executive-order/.
+
+SHRM. 2022. *Retaining Talent: A Guide to Analyzing and Managing Employee Turnover*. Alexandria, VA: Society for Human Resource Management. https://www.shrm.org/.
+
+TestGorilla. 2024. *The State of Skills-Based Hiring 2024*. Amsterdam: TestGorilla. https://www.testgorilla.com/state-of-skills-based-hiring/.
+
+Walmart. 2024. "VR Training and Workforce Development." Walmart Corporate. https://corporate.walmart.com/newsroom/innovation/.
+
+World Economic Forum. 2025. *The Future of Jobs Report 2025*. Geneva: World Economic Forum. https://www.weforum.org/publications/the-future-of-jobs-report-2025/.
